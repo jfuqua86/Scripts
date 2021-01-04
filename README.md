@@ -96,7 +96,7 @@ Copy the playbook file to Ansible control node.
 Update the elk-stack file to include...
 Run the playbook, and navigate to container to check that the installation worked as expected.
 
-<img src="Ansible/Playbook.png" title="Playbook" alt="Playbook" width="900" height="350">
+<img src="Ansible/Playbook.png" title="Playbook" alt="Playbook" width="900" height="300">
 
 * Install_elk.yml playbook file
 * The playbook needs to be copied to the host folder on the target machine
