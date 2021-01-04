@@ -96,7 +96,7 @@ Copy the playbook file to Ansible control node.
 Update the elk-stack file to include...
 Run the playbook, and navigate to container to check that the installation worked as expected.
 
-<img src="Ansible/Playbook.png" title="Playbook" alt="Playbook" width="900" height="550">
+<img src="Ansible/Playbook.png" title="Playbook" alt="Playbook" width="900" height="350">
 
 * Install_elk.yml playbook file
 * The playbook needs to be copied to the host folder on the target machine
@@ -105,4 +105,4 @@ Run the playbook, and navigate to container to check that the installation worke
 * Curl http://10.0.0.8:5601 which is the address for kibana to confirm if it is working correctly.
 * As a Bonus, provide the specific commands the user will need to run to download the playbook, update the files, etc.
 
-<img src="Ansible/Elk.png" title="Elk" alt="Elk" width="900" height="550">
+<img src="Ansible/Elk.png" title="Elk" alt="Elk" width="900" height="250">
