@@ -96,6 +96,7 @@ Copy the playbook file to Ansible control node.
 Update the elk-stack file to include...
 Run the playbook, and navigate to container to check that the installation worked as expected.
 
+<img src="Diagrams/NetworkDiagram.png" title="topolgydiagram" alt="topolgydiagram" width="500" height="630">
 
 * Install_elk.yml playbook file
 * The playbook needs to be copied to the host folder on the target machine
@@ -103,3 +104,5 @@ Run the playbook, and navigate to container to check that the installation worke
 * The playbook for the elk is different than the one for filebeat which identifies which program is running ojn which machine.
 * Curl http://10.0.0.8:5601 which is the address for kibana to confirm if it is working correctly.
 * As a Bonus, provide the specific commands the user will need to run to download the playbook, update the files, etc.
+
+<img src="Diagrams/NetworkDiagram.png" title="topolgydiagram" alt="topolgydiagram" width="500" height="630">
