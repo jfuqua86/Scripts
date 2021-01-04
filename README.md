@@ -71,7 +71,7 @@ Steps of the ELK installation play.
 
 The following screenshot displays the result of running docker ps after successfully configuring the ELK instance.
 
-<img src="Diagrams/Docker image.png" title="Docker" alt="Docker" width="500" height="630">
+<img src="Diagrams/Docker image.png" title="Docker" alt="Docker" width="900" height="200">
 
 
 Target Machines & Beats
